@@ -23,5 +23,3 @@ az webapp create --name $NAME --resource-group $resgrp --plan $serviceplan
 ### webapp create og deploy er endnu ikke på plads
 - ID?
 - Deploy manuelt på portal for nu 
-
-
